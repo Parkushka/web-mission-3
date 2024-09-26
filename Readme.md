@@ -2,7 +2,7 @@
 
 ## VIDEO
 
-[Link to video](https://drive.google.com/file/d/1kTU0BvjKD6isd7Ns5BssAnC15eeRpFLX/view?usp=sharing)
+[Link to video](https://drive.google.com/file/d/1_V1koiIOyy9XIIDO58luma-9HpKDgwNG/view?usp=sharing)
 
 ## SQL
 -- Получить список юзернеймов пользователей
